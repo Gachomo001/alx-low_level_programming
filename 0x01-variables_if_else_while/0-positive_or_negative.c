@@ -4,7 +4,10 @@
 
 /**
  * main - Determines if a number is positive, negative or zero
- * Return 0 (Success)
+ *
+ * Description: assign random number to the variable n each time it is executed
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
